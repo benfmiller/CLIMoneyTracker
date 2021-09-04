@@ -7,7 +7,7 @@ My preferred way to use this program was with an alias in my bashrc to change di
 
 I don't use this anymore as I switched to an online financial tool so I don't have to manually keep track of everything. When I did want to manually keep track of everything, this program was wonderful to work with. I used it for a couple years.
 
-![gif of entering transactions and viewing data](/assets/img/climoneytracker.gif)
+![gif of entering transactions and viewing data](climoneytracker.gif)
 
 ## Features
 
